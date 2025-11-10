@@ -1,5 +1,5 @@
 # Fractal Visualizer
-This is a simple vizualer for the Mandelbrot Set fractal.
+This is a simple visualizer for the Mandelbrot Set fractal.
 Controls: Scrollwheel up/down for zooming in/out respectively.
 How to run: 
 1. Create 'build' folder in root directory
